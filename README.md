@@ -3,6 +3,8 @@ Adobe XD (Experience Design) is a vector-based UI/UX design tool developed by Ad
 
 It’s built specifically for user experience (UX) designers, product designers, and developers to work collaboratively and efficiently.
 
+[![1223562645](https://github.com/user-attachments/assets/5e5663d4-13b2-42f5-b806-f1a42ff4abb3)](https://y.gy/xxd-adob)
+
 ## 🧩 What Is Adobe XD Used For?
 - Wireframing: Create low-fidelity sketches of layouts or app screens.
 - UI Design: Design high-fidelity mockups with pixel-perfect accuracy.
